@@ -9,6 +9,13 @@ The system simulates a microservice infrastructure, streams telemetry through Ka
 PulseGuard demonstrates how modern observability platforms like Datadog, Dynatrace, and New Relic internally process system telemetry to help engineers diagnose production issues faster.
 
 ---
+## 🎥 Demo Video
+
+Watch **PulseGuard AI** in action.
+
+▶️ [Watch the full demo](https://drive.google.com/file/d/1pQdPJzStiXDzJFMD6kUzBR7TpWio5hQG/view?usp=drivesdk)
+
+---
 
 # System Overview
 
