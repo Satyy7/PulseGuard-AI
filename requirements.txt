@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+kafka-python
+psycopg2-binary
+redis
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+groq
+python-dotenv
+requests
+pydantic
